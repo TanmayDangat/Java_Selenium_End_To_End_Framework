@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="5" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-19T13:46:38 IST" name="OrangeHRMSuite" finished-at="2026-04-19T13:47:18 IST" duration-ms="39398">
+    <groups>
+    </groups>
+    <test started-at="2026-04-19T13:46:38 IST" name="OrangeHRMTest" finished-at="2026-04-19T13:47:18 IST" duration-ms="39398">
+      <class name="com.orangehrm.test.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:46:39 IST" name="setup" finished-at="2026-04-19T13:46:49 IST" duration-ms="10366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAdminTab()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:46:49 IST" name="verifyAdminTab" finished-at="2026-04-19T13:46:53 IST" duration-ms="4166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminTab -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:46:49 IST" name="setupPage" finished-at="2026-04-19T13:46:49 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:46:53 IST" name="tearDown" finished-at="2026-04-19T13:46:54 IST" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:46:54 IST" name="setup" finished-at="2026-04-19T13:47:02 IST" duration-ms="8157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogoutTab()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:47:02 IST" name="verifyLogoutTab" finished-at="2026-04-19T13:47:06 IST" duration-ms="3890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutTab -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:47:02 IST" name="setupPage" finished-at="2026-04-19T13:47:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:47:06 IST" name="tearDown" finished-at="2026-04-19T13:47:07 IST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:47:07 IST" name="setup" finished-at="2026-04-19T13:47:14 IST" duration-ms="7479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:47:14 IST" name="setupPage" finished-at="2026-04-19T13:47:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="verifyOrangeHRMLogo()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:47:14 IST" name="verifyOrangeHRMLogo" finished-at="2026-04-19T13:47:17 IST" duration-ms="2985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrangeHRMLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.test.HomePageTest@6dab9b6d]" started-at="2026-04-19T13:47:17 IST" name="tearDown" finished-at="2026-04-19T13:47:18 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrm.test.HomePageTest -->
+      <class name="com.orangehrm.test.DummyClass">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.orangehrm.test.DummyClass@27eedb64]" started-at="2026-04-19T13:46:38 IST" name="loadConfig" finished-at="2026-04-19T13:46:38 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangehrm.test.DummyClass@27eedb64]" started-at="2026-04-19T13:46:39 IST" name="setup" finished-at="2026-04-19T13:46:47 IST" duration-ms="8473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="dummyTest()[pri:0, instance:com.orangehrm.test.DummyClass@27eedb64]" started-at="2026-04-19T13:46:47 IST" name="dummyTest" finished-at="2026-04-19T13:46:47 IST" duration-ms="52" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as part of testing]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as part of testing
+at com.orangehrm.test.DummyClass.dummyTest(DummyClass.java:21)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummyTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.test.DummyClass@27eedb64]" started-at="2026-04-19T13:46:47 IST" name="tearDown" finished-at="2026-04-19T13:46:48 IST" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrm.test.DummyClass -->
+      <class name="com.orangehrm.test.DummyClass2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangehrm.test.DummyClass2@24ba9639]" started-at="2026-04-19T13:46:39 IST" name="setup" finished-at="2026-04-19T13:46:48 IST" duration-ms="9342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="dummyTest()[pri:0, instance:com.orangehrm.test.DummyClass2@24ba9639]" started-at="2026-04-19T13:46:48 IST" name="dummyTest" finished-at="2026-04-19T13:46:48 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummyTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.test.DummyClass2@24ba9639]" started-at="2026-04-19T13:46:48 IST" name="tearDown" finished-at="2026-04-19T13:46:49 IST" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrm.test.DummyClass2 -->
+      <class name="com.orangehrm.test.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangehrm.test.LoginPageTest@38aa816f]" started-at="2026-04-19T13:46:39 IST" name="setup" finished-at="2026-04-19T13:46:47 IST" duration-ms="8839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidLoginTest()[pri:0, instance:com.orangehrm.test.LoginPageTest@38aa816f]" started-at="2026-04-19T13:46:47 IST" name="invalidLoginTest" finished-at="2026-04-19T13:46:50 IST" duration-ms="2915" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Tast failed: Invalid error message expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Tast failed: Invalid error message expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at com.orangehrm.test.LoginPageTest.invalidLoginTest(LoginPageTest.java:43)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.orangehrm.test.LoginPageTest@38aa816f]" started-at="2026-04-19T13:46:47 IST" name="setupPage" finished-at="2026-04-19T13:46:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.test.LoginPageTest@38aa816f]" started-at="2026-04-19T13:46:51 IST" name="tearDown" finished-at="2026-04-19T13:46:51 IST" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangehrm.test.LoginPageTest@38aa816f]" started-at="2026-04-19T13:46:51 IST" name="setup" finished-at="2026-04-19T13:46:56 IST" duration-ms="4429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:com.orangehrm.test.LoginPageTest@38aa816f]" started-at="2026-04-19T13:46:56 IST" name="setupPage" finished-at="2026-04-19T13:46:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="verifyValidLoginPage()[pri:0, instance:com.orangehrm.test.LoginPageTest@38aa816f]" started-at="2026-04-19T13:46:56 IST" name="verifyValidLoginPage" finished-at="2026-04-19T13:47:11 IST" duration-ms="15778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLoginPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.test.LoginPageTest@38aa816f]" started-at="2026-04-19T13:47:11 IST" name="tearDown" finished-at="2026-04-19T13:47:12 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrm.test.LoginPageTest -->
+    </test> <!-- OrangeHRMTest -->
+  </suite> <!-- OrangeHRMSuite -->
+</testng-results>

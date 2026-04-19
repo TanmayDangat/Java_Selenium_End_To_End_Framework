@@ -1,0 +1,590 @@
+2026-04-13 15:24:02 [main] ERROR BaseClass - This is Error message
+2026-04-13 15:24:02 [main] FATAL BaseClass - This is Fatal message
+2026-04-13 15:24:11 [main] ERROR BaseClass - This is Error message
+2026-04-13 15:24:11 [main] FATAL BaseClass - This is Fatal message
+2026-04-13 16:51:14 [main] ERROR BaseClass - This is Error message
+2026-04-13 16:51:14 [main] FATAL BaseClass - This is Fatal message
+2026-04-13 16:51:21 [main] ERROR BaseClass - This is Error message
+2026-04-13 16:51:21 [main] FATAL BaseClass - This is Fatal message
+2026-04-13 16:56:04 [main] ERROR BaseClass - This is Error message
+2026-04-13 16:56:04 [main] FATAL BaseClass - This is Fatal message
+2026-04-13 16:56:13 [main] ERROR BaseClass - This is Error message
+2026-04-13 16:56:13 [main] FATAL BaseClass - This is Fatal message
+2026-04-14 14:29:13 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-14 14:29:13 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-14 14:29:14 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-14 14:29:14 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-14 14:29:14 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Unable to enter text. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f5895e9c042c1a80740feeef22757f6, clearElement [id]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60314}, goog:processID: 23460, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60314/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (8f5895e9c042c1a80740feeef22757f6)] -> xpath: //input[@name='username']]
+Session ID: 8f5895e9c042c1a80740feeef22757f6
+2026-04-14 14:29:14 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not visible. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f5895e9c042c1a80740feeef22757f6, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60314}, goog:processID: 23460, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60314/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f5895e9c042c1a80740feeef22757f6
+2026-04-14 14:29:14 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Unable to enter text. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f5895e9c042c1a80740feeef22757f6, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60314}, goog:processID: 23460, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60314/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f5895e9c042c1a80740feeef22757f6
+2026-04-14 14:29:14 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Unable to describe the elementError communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f5895e9c042c1a80740feeef22757f6, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60314}, goog:processID: 23460, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60314/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f5895e9c042c1a80740feeef22757f6
+2026-04-14 14:29:15 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not clickable. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f5895e9c042c1a80740feeef22757f6, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60314}, goog:processID: 23460, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60314/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f5895e9c042c1a80740feeef22757f6
+2026-04-14 14:29:15 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Unable to click element. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f5895e9c042c1a80740feeef22757f6, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60314}, goog:processID: 23460, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60314/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f5895e9c042c1a80740feeef22757f6
+2026-04-14 14:29:15 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not visible. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f5895e9c042c1a80740feeef22757f6, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60314}, goog:processID: 23460, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60314/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f5895e9c042c1a80740feeef22757f6
+2026-04-14 14:29:15 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Unable to describe the elementError communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f5895e9c042c1a80740feeef22757f6, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60314}, goog:processID: 23460, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60314/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f5895e9c042c1a80740feeef22757f6
+2026-04-14 14:29:15 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not displayed. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8f5895e9c042c1a80740feeef22757f6, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60314}, goog:processID: 23460, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60314/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f5895e9c042c1a80740feeef22757f6
+2026-04-14 14:29:16 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-14 14:29:16 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-14 14:29:20 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-14 14:29:20 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-14 14:29:21 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 14:29:21 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 14:29:53 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not visible. Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin'], but... org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}.
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57959}, goog:processID: 25088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57959/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9cb81db9732c32bba08799673ca82d4
+2026-04-14 14:30:03 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not visible. Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin'], but... org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}.
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57959}, goog:processID: 25088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57959/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9cb81db9732c32bba08799673ca82d4
+2026-04-14 14:30:13 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=147.0.7727.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b9cb81db9732c32bba08799673ca82d4, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57959}, goog:processID: 25088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57959/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9cb81db9732c32bba08799673ca82d4
+2026-04-14 14:30:23 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=147.0.7727.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b9cb81db9732c32bba08799673ca82d4, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57959}, goog:processID: 25088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57959/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9cb81db9732c32bba08799673ca82d4
+2026-04-14 14:30:29 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not displayed. invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=147.0.7727.55)
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b9cb81db9732c32bba08799673ca82d4, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57959}, goog:processID: 25088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57959/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9cb81db9732c32bba08799673ca82d4
+2026-04-14 14:30:30 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not displayed. invalid session id
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b9cb81db9732c32bba08799673ca82d4, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57959}, goog:processID: 25088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57959/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9cb81db9732c32bba08799673ca82d4
+2026-04-14 14:30:30 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - Failed to quit the browser Timed out waiting for driver server to stop.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b9cb81db9732c32bba08799673ca82d4, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57959}, goog:processID: 25088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57959/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9cb81db9732c32bba08799673ca82d4
+2026-04-14 14:30:37 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 14:30:37 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 14:30:45 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Unable to describe the elementUnable to find element with locator By.xpath: //p[@class='oxd-userdropdown-name']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: driver.version: ActionDriver
+2026-04-14 15:00:19 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:00:19 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:00:20 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-14 15:00:20 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:00:20 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-14 15:00:20 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-14 15:00:20 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-14 15:00:20 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-14 15:00:32 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-14 15:00:32 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-14 15:00:44 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:00:44 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:00:55 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:00:55 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:04:46 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-14 15:04:46 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:04:46 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:04:46 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:04:47 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-14 15:04:47 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-14 15:04:47 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-14 15:04:47 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-14 15:04:55 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-14 15:04:55 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-14 15:04:56 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:04:56 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:05:08 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:05:08 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:19:33 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 15:19:33 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:19:39 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 15:19:39 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:19:48 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 15:19:48 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:20:02 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 15:20:02 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:20:22 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 15:20:22 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:20:39 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 15:20:39 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:20:59 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 15:20:59 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:24:36 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:24:36 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:24:37 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-14 15:24:37 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-14 15:24:37 [TestNG-test-OrangeHRMTest-5] ERROR BaseClass - This is Error message
+2026-04-14 15:24:37 [TestNG-test-OrangeHRMTest-5] FATAL BaseClass - This is Fatal message
+2026-04-14 15:24:38 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-14 15:24:38 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:24:42 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-14 15:24:42 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-14 15:24:45 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-14 15:24:45 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:24:49 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//p[@class='oxd-userdropdown-name']"}
+  (Session info: chrome=147.0.7727.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [afc36917b1b15ff2fe3e24993a39b2a9, findElement {value=//p[@class='oxd-userdropdown-name'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55612}, goog:processID: 21096, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55612/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: afc36917b1b15ff2fe3e24993a39b2a9
+2026-04-14 15:24:54 [TestNG-test-OrangeHRMTest-5] ERROR BaseClass - This is Error message
+2026-04-14 15:24:54 [TestNG-test-OrangeHRMTest-5] FATAL BaseClass - This is Fatal message
+2026-04-14 15:24:59 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not clickable. Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//p[@class='oxd-userdropdown-name'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55612}, goog:processID: 21096, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55612/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-04-14 15:24:59 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Unable to click element. Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//p[@class='oxd-userdropdown-name'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55612}, goog:processID: 21096, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55612/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-04-14 15:24:59 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Unable to describe the elementSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55612}, goog:processID: 21096, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55612/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-04-14 15:24:59 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not clickable. Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55612}, goog:processID: 21096, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55612/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-04-14 15:24:59 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Unable to click element. Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55612}, goog:processID: 21096, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55612/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-04-14 15:27:11 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-14 15:27:11 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-14 15:27:14 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-14 15:27:14 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:27:15 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-14 15:27:15 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-14 15:27:18 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:27:18 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:27:25 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-14 15:27:25 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-14 15:27:31 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:27:31 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:27:43 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:27:43 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:39:43 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-14 15:39:43 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:39:45 [TestNG-test-OrangeHRMTest-5] ERROR BaseClass - This is Error message
+2026-04-14 15:39:45 [TestNG-test-OrangeHRMTest-5] FATAL BaseClass - This is Fatal message
+2026-04-14 15:39:47 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-14 15:39:47 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-14 15:39:48 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-14 15:39:48 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-14 15:39:53 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-14 15:39:53 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-14 15:39:53 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-14 15:39:53 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-14 15:39:59 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-14 15:39:59 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-14 15:40:08 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//p[@class='oxd-userdropdown-name']"}
+  (Session info: chrome=147.0.7727.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a8aa3fd590a4a1b50a416854c69fc52e, findElement {value=//p[@class='oxd-userdropdown-name'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59147}, goog:processID: 25948, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59147/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a8aa3fd590a4a1b50a416854c69fc52e
+2026-04-14 15:40:23 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//p[@class='oxd-userdropdown-name']"}
+  (Session info: chrome=147.0.7727.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52ba8ba3b0fcc4ddbb9bb247690ef525, findElement {value=//p[@class='oxd-userdropdown-name'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59513}, goog:processID: 23808, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59513/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52ba8ba3b0fcc4ddbb9bb247690ef525
+2026-04-14 15:40:34 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not clickable. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a8aa3fd590a4a1b50a416854c69fc52e, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59147}, goog:processID: 25948, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59147/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a8aa3fd590a4a1b50a416854c69fc52e
+2026-04-14 15:40:34 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Unable to click element. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a8aa3fd590a4a1b50a416854c69fc52e, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59147}, goog:processID: 25948, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59147/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a8aa3fd590a4a1b50a416854c69fc52e
+2026-04-14 15:40:34 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Unable to describe the elementError communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a8aa3fd590a4a1b50a416854c69fc52e, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59147}, goog:processID: 25948, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59147/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a8aa3fd590a4a1b50a416854c69fc52e
+2026-04-14 15:40:34 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not clickable. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a8aa3fd590a4a1b50a416854c69fc52e, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59147}, goog:processID: 25948, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59147/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a8aa3fd590a4a1b50a416854c69fc52e
+2026-04-14 15:40:34 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Unable to click element. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a8aa3fd590a4a1b50a416854c69fc52e, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59147}, goog:processID: 25948, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59147/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a8aa3fd590a4a1b50a416854c69fc52e
+2026-04-14 15:40:41 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Unable to describe the elementError communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52ba8ba3b0fcc4ddbb9bb247690ef525, getElementDomAttribute [id, name]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59513}, goog:processID: 23808, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59513/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (52ba8ba3b0fcc4ddbb9bb247690ef525)] -> xpath: //a[text()='Logout']]
+Session ID: 52ba8ba3b0fcc4ddbb9bb247690ef525
+2026-04-14 15:40:41 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Element is not clickable. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52ba8ba3b0fcc4ddbb9bb247690ef525, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59513}, goog:processID: 23808, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59513/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52ba8ba3b0fcc4ddbb9bb247690ef525
+2026-04-14 15:40:41 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Unable to click element. Error communicating with the remote browser. It may have died.
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52ba8ba3b0fcc4ddbb9bb247690ef525, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.56 (b28eac7a1a97..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59513}, goog:processID: 23808, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59513/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52ba8ba3b0fcc4ddbb9bb247690ef525
+2026-04-14 17:49:52 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 17:49:52 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 17:49:54 [TestNG-tests-2] ERROR BaseClass - This is Error message
+2026-04-14 17:49:54 [TestNG-tests-2] FATAL BaseClass - This is Fatal message
+2026-04-14 17:49:59 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 17:49:59 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 17:50:08 [TestNG-tests-2] ERROR BaseClass - This is Error message
+2026-04-14 17:50:08 [TestNG-tests-2] FATAL BaseClass - This is Fatal message
+2026-04-14 17:50:15 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 17:50:15 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 17:50:24 [TestNG-tests-2] ERROR BaseClass - This is Error message
+2026-04-14 17:50:24 [TestNG-tests-2] FATAL BaseClass - This is Fatal message
+2026-04-14 17:50:29 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 17:50:29 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 17:50:37 [TestNG-tests-2] ERROR BaseClass - This is Error message
+2026-04-14 17:50:37 [TestNG-tests-2] FATAL BaseClass - This is Fatal message
+2026-04-14 17:50:46 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 17:50:46 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 17:50:55 [TestNG-tests-2] ERROR BaseClass - This is Error message
+2026-04-14 17:50:55 [TestNG-tests-2] FATAL BaseClass - This is Fatal message
+2026-04-14 17:51:09 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 17:51:09 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-14 17:51:09 [TestNG-tests-2] ERROR BaseClass - This is Error message
+2026-04-14 17:51:09 [TestNG-tests-2] FATAL BaseClass - This is Fatal message
+2026-04-14 17:51:26 [TestNG-tests-2] ERROR BaseClass - This is Error message
+2026-04-14 17:51:26 [TestNG-tests-2] FATAL BaseClass - This is Fatal message
+2026-04-14 17:51:37 [TestNG-tests-1] ERROR BaseClass - This is Error message
+2026-04-14 17:51:37 [TestNG-tests-1] FATAL BaseClass - This is Fatal message
+2026-04-15 14:19:34 [main] ERROR BaseClass - This is Error message
+2026-04-15 14:19:34 [main] FATAL BaseClass - This is Fatal message
+2026-04-15 14:21:12 [main] ERROR BaseClass - This is Error message
+2026-04-15 14:21:12 [main] FATAL BaseClass - This is Fatal message
+2026-04-15 14:21:44 [main] ERROR BaseClass - This is Error message
+2026-04-15 14:21:44 [main] FATAL BaseClass - This is Fatal message
+2026-04-16 12:30:30 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-16 12:30:30 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-16 12:30:30 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-16 12:30:30 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-16 12:30:32 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 12:30:32 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 12:30:33 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 12:30:33 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 12:30:44 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 12:30:44 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 12:30:44 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 12:30:44 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 12:31:00 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 12:31:00 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 12:54:26 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 12:54:26 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 12:54:26 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 12:54:26 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 12:54:27 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-16 12:54:27 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-16 12:54:35 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-16 12:54:35 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-16 12:54:36 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 12:54:36 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 12:54:36 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 12:54:36 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 12:54:47 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 12:54:47 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 12:58:13 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-16 12:58:13 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-16 12:58:13 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 12:58:13 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 12:58:13 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-16 12:58:13 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-16 12:58:18 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 12:58:18 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 12:58:21 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 12:58:21 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 12:58:26 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 12:58:26 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 12:58:35 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 12:58:35 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 12:59:06 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not visible. Expected condition failed: waiting for visibility of element found by By.xpath: //input[@name='username'], but... org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='username']"}.
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.55, chrome: {chromedriverVersion: 147.0.7727.57 (b4f28b5637d0..., userDataDir: C:\Users\tdangat\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56458}, goog:processID: 2824, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56458/devtoo..., se:cdpVersion: 147.0.7727.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8db1766f6ba808ac34f02a796056a82
+2026-04-16 13:04:43 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-16 13:04:43 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-16 13:04:44 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 13:04:44 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 13:04:45 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 13:04:45 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 13:04:45 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-16 13:04:45 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-16 13:04:52 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 13:04:52 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 13:04:54 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 13:04:54 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 13:05:04 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 13:05:04 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 13:11:55 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 13:11:55 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 13:11:55 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-16 13:11:55 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-16 13:11:57 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-16 13:11:57 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-16 13:12:08 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 13:12:08 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 13:12:20 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 13:12:20 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 13:12:46 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 13:12:46 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 13:13:28 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 13:13:28 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 13:23:24 [main] ERROR BaseClass - This is Error message
+2026-04-16 13:23:24 [main] FATAL BaseClass - This is Fatal message
+2026-04-16 14:45:20 [main] ERROR BaseClass - This is Error message
+2026-04-16 14:45:20 [main] FATAL BaseClass - This is Fatal message
+2026-04-16 14:46:52 [main] ERROR BaseClass - This is Error message
+2026-04-16 14:46:52 [main] FATAL BaseClass - This is Fatal message
+2026-04-16 14:46:54 [main] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-16 14:53:49 [main] ERROR BaseClass - This is Error message
+2026-04-16 14:53:49 [main] FATAL BaseClass - This is Fatal message
+2026-04-16 14:53:52 [main] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-16 14:56:18 [main] ERROR BaseClass - This is Error message
+2026-04-16 14:56:18 [main] FATAL BaseClass - This is Fatal message
+2026-04-16 14:56:20 [main] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-16 14:58:04 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-16 14:58:04 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-16 14:58:04 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-16 14:58:04 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-16 14:58:06 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 14:58:06 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 14:58:06 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 14:58:06 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 14:58:12 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-16 14:58:20 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 14:58:20 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 14:58:23 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 14:58:23 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 14:58:45 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 14:58:45 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 15:11:09 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 15:11:09 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 15:11:12 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-16 15:11:12 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-16 15:11:27 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-16 15:11:27 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-16 15:11:29 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 15:11:29 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 15:11:33 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 15:11:33 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-16 15:11:46 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-16 15:11:55 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-16 15:11:55 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-16 15:12:08 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-16 15:12:08 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-18 23:45:28 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-18 23:45:28 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-18 23:45:28 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-18 23:45:28 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-18 23:45:28 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-18 23:45:28 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-18 23:45:28 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-18 23:45:28 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-18 23:45:30 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-18 23:45:37 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-18 23:45:37 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-18 23:45:38 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-18 23:45:38 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-18 23:45:47 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-18 23:45:47 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-18 23:48:44 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-18 23:48:44 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-18 23:48:44 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-18 23:48:44 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-18 23:48:44 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-18 23:48:44 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-18 23:48:46 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-18 23:48:47 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-18 23:48:47 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-18 23:48:53 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-18 23:48:53 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-18 23:48:56 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-18 23:48:56 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-18 23:49:05 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-18 23:49:05 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:27:51 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-19 13:27:51 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-19 13:27:51 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-19 13:27:51 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-19 13:27:51 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-19 13:27:51 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-19 13:27:51 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:27:51 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:27:54 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-19 13:28:00 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-19 13:28:00 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-19 13:28:03 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:28:03 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:28:20 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:28:20 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:41:51 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-19 13:41:51 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-19 13:41:51 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-19 13:41:51 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-19 13:41:51 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:41:51 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:41:51 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-19 13:41:51 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-19 13:41:55 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-19 13:42:03 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:42:03 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:42:12 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-19 13:42:12 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-19 13:42:18 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:42:18 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:44:51 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-19 13:44:51 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-19 13:44:51 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-19 13:44:51 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-19 13:44:51 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-19 13:44:51 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-19 13:44:52 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:44:52 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:44:55 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-19 13:45:04 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-19 13:45:04 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-19 13:45:09 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:45:09 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:45:22 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:45:22 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:46:47 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is Error message
+2026-04-19 13:46:47 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is Fatal message
+2026-04-19 13:46:47 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-19 13:46:47 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-19 13:46:48 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is Error message
+2026-04-19 13:46:48 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is Fatal message
+2026-04-19 13:46:49 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:46:49 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:46:50 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Text are not matching. Invalid credentials1not equalsInvalid credentials
+2026-04-19 13:46:56 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is Error message
+2026-04-19 13:46:56 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is Fatal message
+2026-04-19 13:47:02 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:47:02 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message
+2026-04-19 13:47:14 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is Error message
+2026-04-19 13:47:14 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is Fatal message

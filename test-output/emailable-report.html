@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="8">OrangeHRMSuite</th></tr>
+<tr><td><a href="#t0">OrangeHRMTest</a></td><td class="num">5</td><td class="num attn">1</td><td class="num">0</td><td class="num attn">1</td><td class="num">39,398</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">OrangeHRMSuite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">OrangeHRMTest &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.orangehrm.test.LoginPageTest</td><td><a href="#m0">invalidLoginTest</a></td><td rowspan="1">1776586607997</td><td rowspan="1">2915</td></tr><tr><th colspan="4">OrangeHRMTest &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="1">com.orangehrm.test.DummyClass</td><td><a href="#m1">dummyTest</a></td><td rowspan="1">1776586607639</td><td rowspan="1">52</td></tr><tr><th colspan="4">OrangeHRMTest &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.orangehrm.test.DummyClass2</td><td><a href="#m2">dummyTest</a></td><td rowspan="1">1776586608499</td><td rowspan="1">27</td></tr><tr class="passedodd"><td rowspan="3">com.orangehrm.test.HomePageTest</td><td><a href="#m3">verifyAdminTab</a></td><td rowspan="1">1776586609524</td><td rowspan="1">4166</td></tr><tr class="passedodd"><td><a href="#m4">verifyLogoutTab</a></td><td rowspan="1">1776586622665</td><td rowspan="1">3890</td></tr><tr class="passedodd"><td><a href="#m5">verifyOrangeHRMLogo</a></td><td rowspan="1">1776586634790</td><td rowspan="1">2985</td></tr><tr class="passedeven"><td rowspan="1">com.orangehrm.test.LoginPageTest</td><td><a href="#m6">verifyValidLoginPage</a></td><td rowspan="1">1776586616023</td><td rowspan="1">15778</td></tr></tbody>
+</table>
+<h2>OrangeHRMTest</h2><h3 id="m0">com.orangehrm.test.LoginPageTest#invalidLoginTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: Tast failed: Invalid error message expected [true] but found [false]
+	at com.orangehrm.test.LoginPageTest.invalidLoginTest(LoginPageTest.java:43)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+... Removed 14 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.orangehrm.test.DummyClass#dummyTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.testng.SkipException: Skipping the test as part of testing
+	at com.orangehrm.test.DummyClass.dummyTest(DummyClass.java:21)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+... Removed 11 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.orangehrm.test.DummyClass2#dummyTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.orangehrm.test.HomePageTest#verifyAdminTab</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.orangehrm.test.HomePageTest#verifyLogoutTab</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">com.orangehrm.test.HomePageTest#verifyOrangeHRMLogo</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">com.orangehrm.test.LoginPageTest#verifyValidLoginPage</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>
