@@ -45,6 +45,4 @@ public class LoginPageTest extends BaseClass {
 		ExtentManager.logStep("Logged out successfully");
 	}
 
-	//added comment
-
 }
