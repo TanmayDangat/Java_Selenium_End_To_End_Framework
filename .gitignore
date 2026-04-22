@@ -1,0 +1,55 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse (just in case)
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# TestNG
+test-output/
+surefire-reports/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.swp
+*.tmp
+
+# Environment files
+.env
+
+# Mac system files
+.localized
+
+# Downloads / random files (optional safety)
+*.zip
+*.dmg
+*.pkg
