@@ -38,7 +38,7 @@ public class BaseClass {
 	public void loadConfig() throws IOException {
 		// Load the configuration file
 		properties = new Properties();
-		FileInputStream fileInputStream = new FileInputStream(System.getProperty("user.dir") + "src/main/resources/config.properties");
+		FileInputStream fileInputStream = new FileInputStream(System.getProperty("user.dir") + "/src/main/resources/config.properties");
 		properties.load(fileInputStream);
 		logger.info("config.properties file loaded");
 		

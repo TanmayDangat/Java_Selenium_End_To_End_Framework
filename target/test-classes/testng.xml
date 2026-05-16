@@ -10,6 +10,7 @@
 			<class name="com.orangehrm.test.DummyClass2"></class>
 			<class name="com.orangehrm.test.LoginPageTest"></class>
 			<class name="com.orangehrm.test.HomePageTest"></class>
+			<class name="com.orangehrm.test.APITest"></class>
 		</classes>
 	</test>
 </suite>
