@@ -39,7 +39,7 @@ public class LoginPageTest extends BaseClass {
 		//ExtentManager.startTest("Invalid Login Test");            ---This has been implemented in TestListener
 		ExtentManager.logStep("Navigating to Login Page entering username and password");
 		loginPage.login("Adminn", "admin12345");
-		String expectedErrorMessage = "Invalid credentials1";
+		String expectedErrorMessage = "Invalid credentials";
 		Assert.assertTrue(loginPage.isErrorMsgDisplayed(), "Error message should be displayed");
 		Assert.assertTrue(loginPage.checkErrorMsg(expectedErrorMessage), "Tast failed: Invalid error message");
 		ExtentManager.logStep("Validation successful");
